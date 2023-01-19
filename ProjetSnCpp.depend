@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1673971192 source:c:\users\user\documents\junior\projetsncpp\main.cpp
+	<iostream>
+	<filesystem>
+	<string>
+	"Drive.h"
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1673972697 source:c:\users\user\documents\junior\projetsncpp\src\drive.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Drive.h"
+
+1673972460 c:\users\user\documents\junior\projetsncpp\include\drive.h
+	<windows.h>
+	<string>
+
+1673969907 c:\users\user\documents\junior\projetsncpp\notif.h
+	<iostream>
+	<filesystem>
+	<string>
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1673968648 c:\users\user\documents\junior\projetsncpp\resource.h
+
+1673969244 source:c:\users\user\documents\junior\projetsncpp\projetsncpp.rc
+
+1674101812 source:c:\users\hans louis\desktop\projetsncpp\src\drive.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Drive.h"
+
+1674101801 c:\users\hans louis\desktop\projetsncpp\include\drive.h
+	<windows.h>
+	<string>
+
+1673969246 source:c:\users\hans louis\desktop\projetsncpp\projetsncpp.rc
+
+1674124670 source:c:\users\hans louis\desktop\projetsncpp\main.cpp
+	<iostream>
+	<filesystem>
+	<string>
+	"Drive.h"
+	"notif.h"
+	<fstream>
+	"Config.h"
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1673968650 c:\users\hans louis\desktop\projetsncpp\resource.h
+
+1674061522 c:\users\hans louis\desktop\projetsncpp\notif.h
+	<iostream>
+	<filesystem>
+	<string>
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1674124627 source:c:\users\hans louis\desktop\projetsncpp\src\config.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Config.h"
+	"Drive.h"
+
+1674100249 c:\users\hans louis\desktop\projetsncpp\include\config.h
+	<windows.h>
+	<string>
+
